@@ -61,7 +61,9 @@ This project helped me practice:
 
 **Krishna Gupta**
 
-GitHub: https://github.com/Krishna-gupta73
+- *GitHub:* https://github.com/Krishna-gupta73
+- *LinkedIn:* https://www.linkedin.com/in/krishna-gupta-758616330
+- *Email:* guptakrishna7351@gmail.com
 
 ---
 
